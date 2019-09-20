@@ -1,0 +1,14 @@
+<script>
+      // Your web app's Firebase configuration
+      var firebaseConfig = {
+        apiKey: "AIzaSyBinfKeY5pCifSHPmcmc7dlqyUTvb8ltcI",
+        authDomain: "refiauth-21de4.firebaseapp.com",
+        databaseURL: "https://refiauth-21de4.firebaseio.com",
+        projectId: "refiauth-21de4",
+        storageBucket: "",
+        messagingSenderId: "1021800595521",
+        appId: "1:1021800595521:web:6b3bdc9feb7913781306c0"
+      };
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+    </script>
